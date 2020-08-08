@@ -63,5 +63,6 @@ O projeto possui as operações CRUD utilizadas na base de dados
 - Para cadastrar um veículo basta clicar no ícone "+" e inserir as informações do mesmo.
 - Para editar um veículo basta pesquisa-lo e clicar no ícone de detalhes em seguida clicar no botão "EDITAR".
 dentro da tela editar possui um ícone de status do veículo, caso queira colocar como vendido ou à venda basta clicar no ícone.
-- 
+
+*OBS: Não foi possível concluir algumas funcionalidades, os endpoints foram criados na api porém na parte do frontend não deu tempo de fazer o filtro dos veículos.
 
